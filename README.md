@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**namanjoshi26/namanjoshi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Naman Joshi
+# Hi there 👋
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/namanjoshi26/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ## Naman Joshi
-[![LinkedIn][1.1]][1]
-[1.1]: https://github.com/namanjoshi26/namanjoshi26.github.io/blob/master/images/linkedin-24x24.png (linkedIn icon with padding)
-[1]: https://www.linkedin.com/in/namanjoshi26/
