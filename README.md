@@ -4,6 +4,6 @@
 - Previous internships- 1) Science Kidz Educare(Technical Associate Intern), 2) SilverNeuron Consulting(Data Science Intern) 3) Iha Consulting Services Ltd(Data Science Intern).
 - 🔭 I’m currently involved in an extensive course in the domain of Applied AI.  
 - 👯 I’m looking to collaborate on exciting projects based on ML models.
-- 🤔 I’m looking for help with data science career advice
+- 🤔 I’m looking for full time opportunities starting from September/Octerber 2021.
 - ⚡ Fun fact: I am a violinist as well.
 
