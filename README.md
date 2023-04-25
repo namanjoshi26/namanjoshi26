@@ -5,7 +5,7 @@
 - 🔭 I’m currently involved in an extensive course in the domain of Applied AI.
 - 👯 I’m looking to collaborate on exciting projects based on ML models.
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
-- 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
+- 🤝 I’m looking for help with **advanced deep plearning models(language models)**
 - 🤔 I’m looking for full time internship opportunities for Summer 2023.
 - ⚡ Fun fact: I am a violinist as well.
 
